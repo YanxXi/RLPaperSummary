@@ -52,7 +52,7 @@
 
 <img src="https://gitee.com/yanxi1998/typora-image/raw/master/image/image-20220707110150579.png" alt="image-20220707110150579" style="zoom:50%;" />
 
-对于上述定义了batch中的MDP$M_B$，给出了batch中数据和batch外数据的采样概率（都是有限非零的），因此从batch中采样等价于从 MDP $M_B$ 中采样，因此满足Q-learning收敛条件：For any given MDP Q-learning converges to the optimal value function given inﬁnite state-action visitation and some standard assumptions.
+对于上述定义了batch中的MDP $M_B$，给出了batch中数据和batch外数据的采样概率（都是有限非零的），因此从batch中采样等价于从 MDP $M_B$ 中采样，因此满足Q-learning收敛条件：For any given MDP Q-learning converges to the optimal value function given inﬁnite state-action visitation and some standard assumptions.
 
 文章定义 $\epsilon_{MDP}$ 为表格外推误差：
 
