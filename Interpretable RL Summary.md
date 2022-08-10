@@ -1,5 +1,3 @@
-颜熙
-
 *代表重要文章
 
 # Model Approximation Method
